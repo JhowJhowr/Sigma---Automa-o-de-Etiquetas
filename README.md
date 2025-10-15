@@ -22,7 +22,7 @@ Eliminação de erros.
 
 Melhoria na produtividade da operação logística.
 
-📦 Tecnologias Utilizadas
+📦 Libs Utilizadas
 
 Python 3.x
 
